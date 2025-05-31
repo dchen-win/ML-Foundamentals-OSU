@@ -1,4 +1,4 @@
-# Machine Learning (AI 531)
+# Machine Learning
 
 This graduate-level course provides a comprehensive introduction to the foundational concepts, algorithms, and tools of machine learning. Originally developed by Professor Yong Bakos, the course is designed for students pursuing a Master's in Data Science or Statistics.
 
